@@ -1,2 +1,2 @@
-# youtube copy
-A short project to learn html and css by reacreating the base browser desing
+# YouTube UI Project
+A short project to learn HTML and CSS by recreating the base browser design
